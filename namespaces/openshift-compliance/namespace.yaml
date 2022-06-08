@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   annotations:
     openshift.io/display-name: Red Hat Compliance
-  name: compliance-operator
+  name: openshift-compliance
